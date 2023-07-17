@@ -1,7 +1,7 @@
 from turtle import Turtle
 ALIGNMENT = 'center'
 FONT = ('Courier', 12, 'normal')
-SFILE = 'D:\Zohaib Tahir\PyCharm Project\Snake game\high_score.txt'
+SFILE = 'D:\Zohaib Tahir\PyCharm Project\Snake game\high_score.txt'    # add your location here if you want to change it.
 
 
 class Scoreboard(Turtle):
