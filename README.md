@@ -1,4 +1,4 @@
 # Snake-Game
-simple old snake game made with python.
+Plain old snake game made with python.
 
-In the ScoreBoard file, add file location.
+In scoreboard.py, add file location accordingly if you want to change.
